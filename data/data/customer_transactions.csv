@@ -1,0 +1,11 @@
+customer_id,transaction_date,revenue,acquisition_channel
+C001,2024-01-03,120,facebook
+C002,2024-01-05,80,organic
+C003,2024-01-07,150,email
+C001,2024-02-01,90,facebook
+C004,2024-02-04,200,paid_search
+C002,2024-02-10,60,organic
+C005,2024-02-12,250,instagram
+C003,2024-02-15,130,email
+C006,2024-02-20,100,referral
+C001,2024-03-01,110,facebook
